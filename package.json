@@ -11,12 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^6.3.6",
-    "browser-sync": "^2.12.1",
-    "gulp": "^3.9.1",
-    "gulp-postcss": "^6.1.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.2.0",
-    "node-sass": "^3.4.2"
+    "autoprefixer": "9.1.5",
+    "browser-sync": "2.24.7",
+    "gulp": "3.9.1",
+    "gulp-postcss": "8.0.0",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.1",
+    "node-sass": "4.9.3"
   }
 }
